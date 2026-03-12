@@ -1,0 +1,10 @@
+# 小说项目忽略文件
+*.tmp
+*.log
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+*.swp
+*~
