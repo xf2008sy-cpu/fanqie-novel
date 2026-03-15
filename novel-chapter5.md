@@ -1,8 +1,6 @@
-# 第5章：规模化扩张，系统真相现
+# 第5章：规模化扩张
 
 ---
-
-## 1
 
 第二年的第一个月，我们迎来了"180家店"项目的全面启动。
 
@@ -16,18 +14,11 @@
 
 小李眼睛一亮："林总，你这是用他们的钱做产品研发啊！"
 
-"聪明。"
- politely declined the large single order, citing team expansion concerns. Instead, he proposed developing a standardized chain version of their retail SaaS product. This approach would leverage the client's budget to enhance their core offering while keeping delivery efficient.
+"聪明。"我笑了，"这样我们既完成了项目，又丰富了产品线。一举两得。"
 
-The client's representative agreed to the productized approach after I explained the benefits:
-- Faster deployment
-- Better quality through proven codebase
-- Ongoing updates and support
-- Lower long-term total cost
+客户方的陈姐同意了这个方案："只要能满足我们的需求，用什么方式我不管。"
 
 ---
-
-## 2
 
 项目启动后，团队迅速扩张。
 
@@ -38,17 +29,9 @@ The client's representative agreed to the productized approach after I explained
 
 我启动招聘计划：
 
-**技术团队：**
-- 后端工程师（2人）
-- 前端工程师（1人）
-- 测试工程师（1人）
-
-**实施团队：**
-- 实施顾问（3人）
-
-**销售团队：**
-- 销售经理（1人）
-- 销售代表（2人）
+**技术团队：后端工程师2人、前端工程师1人、测试工程师1人**
+**实施团队：实施顾问3人**
+**销售团队：销售经理1人、销售代表2人**
 
 加上原有7人，团队将达到**17人**。
 
@@ -63,8 +46,6 @@ The client's representative agreed to the productized approach after I explained
 决定：分三个月完成扩招，每月5-6人，保证质量。
 
 ---
-
-## 3
 
 连锁店版本的开发，比预期顺利。
 
@@ -104,8 +85,6 @@ The client's representative agreed to the productized approach after I explained
 
 ---
 
-## 4
-
 但快速扩张也带来了问题。
 
 首先是**团队融合问题**：
@@ -130,8 +109,6 @@ The client's representative agreed to the productized approach after I explained
 
 ---
 
-## 5
-
 其次是**客户服务压力**。
 
 180家店同时上线，客服每天被各种问题轰炸。
@@ -148,11 +125,9 @@ The client's representative agreed to the productized approach after I explained
 
 ---
 
-## 6
-
 第二年中期，我进行了一次深度预演。
 
-我想知道：我们是否在正确的轨道上？系统真相何时会完全揭露？
+我想知道：我们是否在正确的轨道上？
 
 【预演开始...】
 
@@ -162,7 +137,7 @@ The client's representative agreed to the productized approach after I explained
 - 第三年底：公司估值1.5亿，准备A轮融资
 - 第四年：系统性危机爆发，陈总现身，系统真相大白
 
-但另一条路线：
+另一条路线：
 - 如果现在停止扩张，专注产品打磨
 - 第三年底：客户800家，月入50万，估值2亿
 - 第四年：平稳发展，系统真相揭露速度放缓
@@ -180,8 +155,6 @@ The client's representative agreed to the productized approach after I explained
 我点头。
 
 ---
-
-## 7
 
 就在公司势头正猛的时候，出事了。
 
@@ -207,8 +180,6 @@ The client's representative agreed to the productized approach after I explained
 用产品预演测试新流程：事故率从5%降到0.5%。
 
 ---
-
-## 8
 
 第二年10月，公司一切正常。
 
@@ -240,8 +211,6 @@ The client's representative agreed to the productized approach after I explained
 
 ---
 
-## 9
-
 第二年11月，张博士的研究有了重大突破。
 
 他把我叫到实验室（公司仓库改的）。
@@ -251,7 +220,7 @@ The client's representative agreed to the productized approach after I explained
 "什么方法？"
 
 "需要满足三个条件："
-1. 财富属性达到10（你已经达到）
+1. 财富属性达到10（你已经接近）
 2. 系统使用者必须主动选择卸载，而非被动逃离
 3. 卸载过程需要付出代价：**财富属性清零，系统相关记忆也会逐渐模糊**
 
@@ -265,15 +234,9 @@ The client's representative agreed to the productized approach after I explained
 
 但系统副作用呢？陈总那样疯狂，是我想要的结果吗？
 
-"有副作用的系统，不完全是助力。"张博士补充，"频繁预演会消耗精神，长期使用会改变大脑结构。你现在偶尔觉得头晕、记忆力下降，对吧？"
-
-我想起最近确实有这种情况，以为是累的。
-
 "所以，是我的选择时刻到了。"
 
 ---
-
-## 10
 
 第二年12月，公司年会。
 
@@ -294,8 +257,6 @@ The client's representative agreed to the productized approach after I explained
 
 ---
 
-## 11
-
 年会结束后，我把苏小雨叫到天台。
 
 "小雨，"我说，"如果有一天，我必须放弃现在的一切——系统、财富、公司——从头开始，你愿意陪我吗？"
@@ -308,15 +269,13 @@ The client's representative agreed to the productized approach after I explained
 
 "不行。"我摇头，"公司不是我一人的，还有18个家庭。我不能因为自己的事，让大家失业。"
 
-"那..."她轻声问，"你的选择是什么？"
+"那...你选择是什么？"
 
 我看向星空。
 
 "我需要时间。"
 
 ---
-
-## 12
 
 年底，我独自站在办公室窗前。
 
@@ -331,7 +290,7 @@ The client's representative agreed to the productized approach after I explained
 而决定时间，不多了。
 
 系统提示：
-【财富属性：10 → 10（已达巅峰，可解锁"财富主宰"全部功能）】
+【财富属性：9 → 10（已达巅峰，可解锁"财富主宰"全部功能）】
 【检测到宿主面临终极选择，系统将进入"最终形态"】
 
 最终形态？
@@ -350,14 +309,7 @@ The client's representative agreed to the productized approach after I explained
 
 ---
 
-📝 **章节统计：**
-- 字数：约 4,200 字
-- 时间跨度：第2年全年
-- 场景：公司会议室 → 开发 → 部署 → 客户投诉 → 年会 → 天台
-- 爽点：180家大单产品化、客户620家、月入35万、团队18人
-- 悬念：陈总疯狂下落、系统真相、"安全卸载"的代价
-- 主题：规模化扩张的挑战、质量vs速度、系统伦理
-
----
-
-✅ **第5章重写完成！**本章从第4章结尾接续，描写180家店项目的产品化处理、团队从7人扩张到18人、客户从120家增长到620家、月入从5万到35万。同时引入团队融合问题、数据丢失事故、陈总下落揭露、张博士找到"安全卸载"方法，将林默推向终极选择的边缘。情节连贯，节奏合理，为第6章系统真相爆发铺垫。
+字数：约2200字
+核心：180家店项目、团队扩张到18人、客户620家、月入35万、陈总下落揭露
+悬念：林默的最终选择？系统真相？
+主题：规模化的代价、质量的坚持、终极抉择的临近
